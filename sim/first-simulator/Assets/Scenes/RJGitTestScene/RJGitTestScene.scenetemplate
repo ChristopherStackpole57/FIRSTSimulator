@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: RJGitTestScene
+  m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.SceneTemplate.SceneTemplateAsset
+  templateScene: {fileID: 102900000, guid: d920900dba299a74d95a6df132942cd3, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 8900000, guid: 1f9a9573d5adc9046be10c45cdb3a02b, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 177b2538515c71b4a86aa1cad939807a, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 673c993dd3905a44ea147a531ba82a9f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 8365c9e3d7f9d434bb0cd2e57d6c530f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 919132149155446097, guid: 57b608f8ec030794e90463547c673b54, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 112000000, guid: 002acd7673f58294f97d337d60c81ecd, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 0cacf4800d8cf4846983502360bb39ae, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 94147f9284da6584ba55754ccab669f6, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 786a23a0a165d59478f6a5df7a743108, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
