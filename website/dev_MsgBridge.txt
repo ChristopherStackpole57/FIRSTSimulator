@@ -1,0 +1,12 @@
+window.unityInstance = unityInstance;
+                console.log("Unity instance loaded: " + unityInstance);
+
+window.addEventListener("message", (event) => {
+      if (event.data.type === "java-message") {
+        window.unityInstance.SendMessage(
+          "JavaBridge",
+          "ReceiveMessage",
+          event.data.value
+        );
+      }
+    });
